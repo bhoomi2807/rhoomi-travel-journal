@@ -173,7 +173,7 @@
 
 ## Thursday, September 10 - Day 8: Homebound
 
-**Route:** [Open in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Blue+House+B%26B+Seltjarnarnes&destination=Keflavik+International+Airport&waypoints=Nautholsvik+Geothermal+Beach%7CBaejarins+Beztu+Pylsur)
+**Route:** [Open in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Blue+House+B%26B+Seltjarnarnes&destination=Keflavik+International+Airport&waypoints=Nautholsvik+Geothermal+Beach%7CBaejarins+Beztu+Pylsur%7CHus+mals+og+menningar+Reykjavik)
 
 | Time | Activity |
 |---|---|
@@ -181,7 +181,8 @@
 | 10:15 AM | Nautholsvik Geothermal Beach - 45 minutes; verify seasonal hours. |
 | 11:00 AM | Check out and secure luggage in the car. |
 | 11:30 AM | Baejarins Beztu Pylsur - 30 minutes. |
-| 12:00 PM | Reykjavik free time - 3 hours. |
+| 12:00 PM | [Hus mals og menningar](https://maps.app.goo.gl/yykGny74bJexoQTz9) - 1 hour to browse the bookstore and enjoy the cafe. |
+| 1:00 PM | Reykjavik free time - 2 hours. |
 | 3:00 PM | Drive approximately 50 minutes to Keflavik Airport and return the rental car. |
 | 4:00 PM | KEF check-in, security, and dinner airside. |
 | 7:45 PM | Depart Reykjavik on Icelandair FI683. |

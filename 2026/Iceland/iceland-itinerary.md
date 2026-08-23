@@ -53,7 +53,7 @@
 | 5:15 PM | Drive approximately 1 hour 20 minutes to the South Coast. |
 | 6:35 PM | Seljalandsfoss - 40 minutes. |
 | 7:15 PM | Gljufrabui - 30 minutes. Expect wet footing. |
-| 8:15 PM | Skogafoss - 30-minute base viewpoint only if visibility is suitable. |
+| 8:15 PM | Before Skogafoss, stop at [Faxi Bakery](https://www.google.com/maps/search/?api=1&query=Faxi+Bakery+Iceland) if it is open. Then visit the Skogafoss base viewpoint for 30 minutes if visibility is suitable. |
 | 8:45 PM | Drive approximately 1 hour 15 minutes to Hrifunes. Confirm late check-in. |
 
 **Stay:** The Fox Hostel, Hrifunesvegur, Kirkjubaejarklaustur 881  

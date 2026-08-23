@@ -35,7 +35,7 @@
     {
       "date": "2026-09-05",
       "theme": "Vik and Black Sand",
-      "stops": ["Solheimasandur", "Dyrholaey", "Reynisfjara", "Vik", "Fjadrargljufur", "Skaftafell", "Diamond Beach"],
+      "stops": ["Solheimasandur", "Dyrholaey", "Reynisfjara", "Vik", "Fjadrargljufur", "Skaftafell"],
       "stay": "Hotel Smyrlabjorg",
       "reservations": ["ATV Plane Wreck tour", "Late check-in at Hotel Smyrlabjorg"]
     },
@@ -44,7 +44,7 @@
       "theme": "Glaciers",
       "stops": ["Skaftafell", "Svartifoss", "Svinafellsjokull", "Jokulsarlon", "Diamond Beach", "Vestrahorn", "Djupivogur"],
       "stay": "Bragdavellir Cottages, Djupivogur",
-      "reservations": ["Guided glacier hike", "Verify cottage checkout time"]
+      "reservations": ["Guided glacier hike at Arctic Adventures (Skaftafell Base Camp), 228J+FP5, 785 Skaftafell, Iceland"]
     },
     {
       "date": "2026-09-07",
@@ -55,9 +55,11 @@
     {
       "date": "2026-09-08",
       "theme": "North Iceland",
-      "stops": ["Hverir", "Lake Myvatn", "Godafoss", "Akureyri", "Skjaldarvik"],
+      "stops": ["Hverir", "Lake Myvatn", "Husavik", "GeoSea", "Godafoss", "Akureyri", "Skjaldarvik"],
+      "optionalStops": ["Aldeyjarfoss"],
+      "alternatives": {"GeoSea": "Earth Lagoon (Myvatn Nature Baths)"},
       "stay": "Skjaldarvik Guest House",
-      "reservations": ["Verify guest house checkout time"]
+      "reservations": ["GeoSea or Earth Lagoon (Myvatn Nature Baths)", "Verify guest house checkout time"]
     },
     {
       "date": "2026-09-09",

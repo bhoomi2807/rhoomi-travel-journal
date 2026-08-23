@@ -63,9 +63,7 @@
 
 ## Saturday, September 5 - Day 3: Vik and Black Sand
 
-**Route:** [Open in Google Maps](https://maps.app.goo.gl/5uRXZTM3CJktCE3U8)
-
-> This is a very long day. Svartifoss is daylight-dependent and Diamond Beach will likely be after dark. Skip either stop if visibility, weather, or trail conditions are unsuitable.
+**Route:** [Open in Google Maps](https://maps.app.goo.gl/AKxEKQQ6zwcfgV6K8)
 
 | Time | Activity |
 |---|---|
@@ -76,15 +74,12 @@
 | 2:35 PM | Reyniskirkja Church - 25 minutes. |
 | 3:05 PM | Reynisfjara Black Sand Beach - 40 minutes. Remain well back from the surf. |
 | 4:00 PM | Vik i Myrdal Church - 30 minutes. |
-| 4:35 PM | Black Crust Pizzeria - 45 minutes. |
-| 5:25 PM | Skool Beans - 25 minutes. Confirm opening hours. |
-| 5:50 PM | Drive approximately 1 hour to Fjadrargljufur. |
-| 6:50 PM | Fjadrargljufur - 45 minutes on the marked upper trail. |
-| 7:35 PM | Drive approximately 1 hour to Skaftafell via the Mossy Lava Fields. |
-| 8:35 PM | Svartifoss - optional 1 hour 30 minute return hike; daylight only. |
-| 10:05 PM | Drive approximately 45 minutes to Diamond Beach. |
-| 10:50 PM | Diamond Beach - optional 25-minute stop if visibility is suitable. |
-| 11:15 PM | Drive approximately 30 minutes to Hotel Smyrlabjorg. Confirm late check-in. |
+| 4:35 PM | Black Crust Pizzeria - 10 minutes. |
+| 4:45 PM | Skool Beans - 10 minutes. Confirm opening hours. |
+| 4:55 PM | Drive approximately 1 hour to Fjadrargljufur. |
+| 5:55 PM | Fjadrargljufur - 45 minutes on the marked upper trail. |
+| 6:40 PM | Drive approximately 1 hour to Skaftafell via the Mossy Lava Fields. |
+| 9:00 PM | Drive approximately 30 minutes to Hotel Smyrlabjorg. Confirm late check-in. |
 
 **Stay:** Hotel Smyrlabjorg, Thjodvegur 781, 34 km east of Jokulsarlon  
 **Booked via:** Expedia  
@@ -97,7 +92,7 @@
 | Time | Activity |
 |---|---|
 | 9:00 AM | Drive approximately 1 hour 15 minutes west to Skaftafell. |
-| 10:30 AM | Guided glacier hike - 3 hours 30 minutes. Reserve ahead. |
+| 10:30 AM | Guided glacier hike - 3 hours 30 minutes. Meet at Arctic Adventures (Skaftafell Base Camp), 228J+FP5, 785 Skaftafell, Iceland. |
 | 2:15 PM | Svartifoss - 1 hour 45 minutes for the return hike. |
 | 4:20 PM | Svinafellsjokull viewpoint - 35 minutes; use marked access only. |
 | 4:55 PM | Drive approximately 50 minutes east. |
@@ -107,9 +102,7 @@
 
 **Stay:** Bragdavellir Cottages, Bragdavellir, 765 Djupivogur  
 **Booked via:** Expedia  
-**Check-in:** 4:00 PM | **Listed check-out:** 12:00 AM
-
-> Verify whether the booking means 12:00 PM noon; midnight checkout is unusual.
+**Check-in:** 4:00 PM | **Check-out:** 12:00 PM
 
 ## Monday, September 7 - Day 5: Eastfjords
 
@@ -132,7 +125,11 @@
 
 ## Tuesday, September 8 - Day 6: North Iceland
 
-**Route:** [Open in Google Maps](https://maps.app.goo.gl/GT8mY7bx9vq69MCe9)
+**Route:** [Open in Google Maps](https://maps.app.goo.gl/fozYj3jLtpqbnYVm6)
+
+> Optional: Visit Aldeyjarfoss if time permits.
+
+> Alternative: Visit Earth Lagoon (Myvatn Nature Baths) instead of GeoSea.
 
 | Time | Activity |
 |---|---|
@@ -140,11 +137,13 @@
 | 10:20 AM | Hverir geothermal area - 45 minutes. Stay on marked paths. |
 | 11:20 AM | Lake Myvatn - 2 hours 15 minutes. Choose Hverfjall or Dimmuborgir and lakeside viewpoints. |
 | 1:35 PM | Lunch near Reykjahlid - 45 minutes. |
-| 2:20 PM | Drive approximately 45 minutes to Godafoss. |
-| 3:05 PM | Godafoss - 1 hour to visit both banks. |
-| 4:05 PM | Drive approximately 40 minutes to Akureyri. |
-| 4:45 PM | Akureyri - 2 hours for Akureyrarkirkja, botanical garden, harbor, and dinner. |
-| 7:15 PM | Drive approximately 15 minutes to Skjaldarvik. |
+| 2:20 PM | Drive approximately 50 minutes to Husavik. |
+| 3:10 PM | Husavik and GeoSea - 2 hours. Reserve ahead. |
+| 5:10 PM | Drive approximately 45 minutes to Godafoss. |
+| 5:55 PM | Godafoss - 1 hour to visit both banks. |
+| 6:55 PM | Drive approximately 40 minutes to Akureyri. |
+| 7:35 PM | Akureyri - 2 hours for Akureyrarkirkja, botanical garden, harbor, and dinner. |
+| 9:35 PM | Drive approximately 15 minutes to Skjaldarvik. |
 
 **Stay:** Skjaldarvik Guest House, Road 816, Horgarsveit 604  
 **Booked via:** Airbnb  

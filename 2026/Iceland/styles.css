@@ -121,6 +121,18 @@ h1 span {
   color: #176c78;
 }
 
+.map-location-link {
+  color: inherit;
+  text-decoration-color: rgba(23, 108, 120, 0.45);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.map-location-link:hover {
+  color: #176c78;
+  text-decoration-color: currentColor;
+}
+
 :focus-visible {
   outline: 3px solid #d85638;
   outline-offset: 3px;

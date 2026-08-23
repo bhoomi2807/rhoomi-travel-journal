@@ -1,0 +1,26 @@
+/* Shared enhancements for the Iceland itinerary. */
+:focus-visible {
+  outline: 3px solid #d85638;
+  outline-offset: 3px;
+}
+
+.day-tab:focus-visible,
+.icon-btn:focus-visible {
+  outline-color: #17365d;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .day-section {
+    animation: none;
+  }
+}
+
+@media print {
+  a[href]::after {
+    content: none;
+  }
+}

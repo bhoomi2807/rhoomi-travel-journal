@@ -1,0 +1,76 @@
+{
+  "trip": {
+    "title": "Iceland Ring Road",
+    "startDate": "2026-09-02",
+    "endDate": "2026-09-10",
+    "origin": "Seattle",
+    "destination": "Iceland",
+    "timezone": "Atlantic/Reykjavik",
+    "expectedTemperatureC": {
+      "min": 5,
+      "max": 12
+    }
+  },
+  "days": [
+    {
+      "date": "2026-09-02",
+      "theme": "Departure",
+      "stops": ["Seattle-Tacoma International Airport"],
+      "keyEvents": ["Arrive at SEA at 8:25 PM", "Depart on FI684 at 11:25 PM"]
+    },
+    {
+      "date": "2026-09-03",
+      "theme": "Reykjavik",
+      "stops": ["Keflavik International Airport", "Thufa", "Hallgrimskirkja", "Rainbow Street", "Sun Voyager", "Harpa", "Sky Lagoon"],
+      "stay": "Blue House B&B, Seltjarnarnes",
+      "reservations": ["Sky Lagoon"]
+    },
+    {
+      "date": "2026-09-04",
+      "theme": "Golden Circle",
+      "stops": ["Hveragerdi", "Thingvellir", "Geysir", "Gullfoss", "Fridheimar", "Seljalandsfoss", "Gljufrabui", "Skogafoss"],
+      "stay": "The Fox Hostel, Hrifunes",
+      "reservations": ["Fridheimar", "Late check-in at The Fox Hostel"]
+    },
+    {
+      "date": "2026-09-05",
+      "theme": "Vik and Black Sand",
+      "stops": ["Solheimasandur", "Dyrholaey", "Reynisfjara", "Vik", "Fjadrargljufur", "Skaftafell", "Diamond Beach"],
+      "stay": "Hotel Smyrlabjorg",
+      "reservations": ["ATV Plane Wreck tour", "Late check-in at Hotel Smyrlabjorg"]
+    },
+    {
+      "date": "2026-09-06",
+      "theme": "Glaciers",
+      "stops": ["Skaftafell", "Svartifoss", "Svinafellsjokull", "Jokulsarlon", "Diamond Beach", "Vestrahorn", "Djupivogur"],
+      "stay": "Bragdavellir Cottages, Djupivogur",
+      "reservations": ["Guided glacier hike", "Verify cottage checkout time"]
+    },
+    {
+      "date": "2026-09-07",
+      "theme": "Eastfjords",
+      "stops": ["Seydisfjordur", "Hengifoss", "Egilsstadir", "Studlagil Canyon"],
+      "stay": "Hotel Studlagil"
+    },
+    {
+      "date": "2026-09-08",
+      "theme": "North Iceland",
+      "stops": ["Hverir", "Lake Myvatn", "Godafoss", "Akureyri", "Skjaldarvik"],
+      "stay": "Skjaldarvik Guest House",
+      "reservations": ["Verify guest house checkout time"]
+    },
+    {
+      "date": "2026-09-09",
+      "theme": "West Iceland",
+      "stops": ["Skjaldarvik", "Kirkjufell", "Hraunfossar", "Barnafoss", "Deildartunguhver", "Perlan", "Reykjavik"],
+      "stay": "Blue House B&B, Seltjarnarnes",
+      "reservations": ["Husky petting", "Late self check-in at Blue House B&B"]
+    },
+    {
+      "date": "2026-09-10",
+      "theme": "Homebound",
+      "stops": ["Nautholsvik Geothermal Beach", "Reykjavik", "Keflavik International Airport"],
+      "keyEvents": ["Depart on FI683 at 7:45 PM", "Arrive in Seattle at 8:40 PM local time"]
+    }
+  ]
+}

@@ -21,9 +21,8 @@
     {
       "date": "2026-09-03",
       "theme": "Reykjavik",
-      "stops": ["Keflavik International Airport", "Thufa", "Hallgrimskirkja", "Rainbow Street", "Sun Voyager", "Harpa", "Sky Lagoon"],
-      "stay": "Blue House B&B, Seltjarnarnes",
-      "reservations": ["Sky Lagoon"]
+      "stops": ["Keflavik International Airport", "Thufa", "Hallgrimskirkja", "Rainbow Street", "Sun Voyager", "Harpa"],
+      "stay": "Blue House B&B, Seltjarnarnes"
     },
     {
       "date": "2026-09-04",
@@ -64,7 +63,7 @@
     {
       "date": "2026-09-09",
       "theme": "West Iceland",
-      "stops": ["Skjaldarvik", "Kirkjufell", "Hraunfossar", "Barnafoss", "Deildartunguhver", "Perlan", "Reykjavik"],
+      "stops": ["Skjaldarvik", "Kirkjufell", "Hraunfossar", "Barnafoss", "Deildartunguhver", "Reykjavik"],
       "stay": "Blue House B&B, Seltjarnarnes",
       "reservations": ["Husky petting", "Late self check-in at Blue House B&B"]
     },

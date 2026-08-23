@@ -17,7 +17,7 @@
 
 ## Thursday, September 3 - Day 1: Reykjavik
 
-**Route:** [Open in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Keflavik+International+Airport&destination=Blue+House+B%26B+Seltjarnarnes&waypoints=Thufa+Reykjavik%7CHallgrimskirkja%7CRainbow+Street+Reykjavik%7CSun+Voyager%7CHarpa+Concert+Hall%7CBaejarins+Beztu+Pylsur%7CSky+Lagoon)
+**Route:** [Open in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Keflavik+International+Airport&destination=Blue+House+B%26B+Seltjarnarnes&waypoints=Thufa+Reykjavik%7CHallgrimskirkja%7CRainbow+Street+Reykjavik%7CSun+Voyager%7CHarpa+Concert+Hall%7CBaejarins+Beztu+Pylsur)
 
 | Time | Activity |
 |---|---|
@@ -29,7 +29,6 @@
 | 6:15 PM | Rainbow Street - 30 minutes. |
 | 6:50 PM | Sun Voyager - 25 minutes. |
 | 7:20 PM | Harpa Concert Hall and Reykjavik waterfront - 50 minutes. |
-| 9:00 PM | Sky Lagoon - 2 hours. Book ahead and confirm last entry. |
 
 **Stay:** Blue House B&B, Valhusabraut 19, 170 Seltjarnarnes  
 **Booked via:** Expedia  
@@ -155,7 +154,7 @@
 
 **Route:** [Open in Google Maps](https://maps.app.goo.gl/2nGJhNPFoHFpV2kj7)
 
-> This is the longest day. Kirkjufell is a major detour and is not included in the current shared map route. Perlan is evening-only, and Deildartunguhver should remain optional.
+> This is the longest day. Kirkjufell is a major detour and is not included in the current shared map route. Deildartunguhver should remain optional.
 
 | Time | Activity |
 |---|---|
@@ -165,9 +164,8 @@
 | 3:20 PM | Drive approximately 2 hours 15 minutes to Hraunfossar. |
 | 5:35 PM | Hraunfossar and Barnafoss - 1 hour. Priority stop. |
 | 6:50 PM | Deildartunguhver - optional 25-minute stop. |
-| 7:15 PM | Drive approximately 1 hour 30 minutes to Reykjavik. |
-| 8:45 PM | Perlan - 1 hour 15 minutes if last admission permits. |
-| 10:00 PM | Check in at Blue House B&B; confirm self check-in instructions. |
+| 7:15 PM | Drive approximately 1 hour 30 minutes to Blue House B&B. |
+| 8:45 PM | Check in at Blue House B&B; confirm self check-in instructions. |
 
 **Stay:** Blue House B&B, Valhusabraut 19, 170 Seltjarnarnes  
 **Booked via:** Expedia  
@@ -191,7 +189,7 @@
 
 ## Final Checks
 
-- Confirm Sky Lagoon, Fridheimar, ATV, glacier hike, and husky reservations.
+- Confirm Fridheimar, ATV, glacier hike, and husky reservations.
 - Confirm late check-in at The Fox Hostel and Hotel Smyrlabjorg.
 - Verify both unusual checkout times.
 - Check [SafeTravel Iceland](https://safetravel.is/) and [road conditions](https://umferdin.is/en) each morning.

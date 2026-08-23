@@ -14,15 +14,6 @@ LOCATION:Seattle-Tacoma International Airport
 DESCRIPTION:Overnight flight. Departure is September 2 at 11:25 PM Seattle time.
 END:VEVENT
 BEGIN:VEVENT
-UID:sky-lagoon-20260903@rhoomi-travel-journal
-DTSTAMP:20260823T000000Z
-DTSTART:20260903T210000Z
-DTEND:20260903T230000Z
-SUMMARY:Sky Lagoon
-LOCATION:Sky Lagoon\, Iceland
-DESCRIPTION:Book ahead and confirm the last entry time.
-END:VEVENT
-BEGIN:VEVENT
 UID:fridheimar-20260904@rhoomi-travel-journal
 DTSTAMP:20260823T000000Z
 DTSTART:20260904T160000Z

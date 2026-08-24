@@ -5,6 +5,7 @@
 **Expected temperature:** 5-12 C  
 **Average sunset:** Approximately 8:00 PM
 
+> **Useful apps:** Use **Bensin** to compare gas prices and **Parka** for parking and parking payments.
 
 ## Wednesday, September 2 - Departure
 
